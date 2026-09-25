@@ -154,6 +154,6 @@ This project was developed as a group project by:
 
 ## Course Information
 
-**Course:** Database Systems Lab (BCSE302L) 
+**Course:** Database Systems Lab (BCSE302L)  
 **Project:** Library Management System  
 **Academic Year:** 2026
